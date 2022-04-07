@@ -1,3 +1,10 @@
+"""
+【pypi密码】
+1690992651@qq.com
+username: wangyongpeng
+pwd : xedpix-zopby1-jYhdin
+"""
+
 import sys
 import tensorflow as tf
 import pandas as pd
