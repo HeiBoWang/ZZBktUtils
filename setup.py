@@ -17,7 +17,7 @@ from setuptools import setup, find_packages            #这个包没有的可以
 
 setup(
     name="ZhuanZhuanBktUtil",      #这里是pip项目发布的名称
-    version="3.0.0",  #版本号，数值大的会优先被pip
+    version="3.1.0",  #版本号，数值大的会优先被pip
     keywords=("pip", "wangyongpeng","tree"),
     description="转转分桶工具。",
     long_description="转转分桶工具",
